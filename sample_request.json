@@ -1,0 +1,30 @@
+{
+    "name": "Ahmed",
+    "age": 23,
+    "location": {
+      "country": "Egypt",
+      "city": "Cairo"
+    },
+    "educationLevel": "Bachelor",
+    "educationField": "Computer Science",
+    "currentStatus": "job_seeker",
+    "experienceYears": 0.5,
+    "currentRole": null,
+    "skills": {
+      "technical": ["Python", "SQL", "Excel"],
+      "soft": ["Communication", "Teamwork"],
+      "languages": ["Arabic", "English"]
+    },
+    "interests": {
+      "industries": ["Tech", "FinTech"],
+      "roles": ["Data Analyst", "Junior Developer"],
+      "workStyle": "hybrid",
+      "relocation": "within_mena"
+    },
+    "constraints": {
+      "internetAccess": "good",
+      "canPayForCourses": false,
+      "timePerWeekHours": 10,
+      "other": "Limited budget, can only attend free or low-cost online courses."
+    }
+  }
